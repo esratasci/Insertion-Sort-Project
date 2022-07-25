@@ -46,6 +46,6 @@ After the array is sorted, the number 18 becomes the median value. Therefore it 
  [ 3, 5, 7, **2**, 8, 9, 4, 15, 6 ]  
  [ 3, 5, **2**, 7, 8, 9, 4, 15, 6 ]  
  [ 3, **2**, 5, 7, 8, 9, 4, 15, 6 ]  
- [ **2**, 3, 5, 7, 8, 9, 4, 15, 6 ]    
+ [ **2**, 3, 5, 7, 8, 9, 4, 15, 6 ]     
 
  
