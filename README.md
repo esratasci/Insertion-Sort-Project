@@ -39,7 +39,7 @@ After the array is sorted, the number 18 becomes the median value. Therefore it 
  Second Stage:  
  [ 3, 7, **5**, 8, 2, 9, 4, 15, 6 ]  
  [ 3, **5**, 7, 8, 2, 9, 4, 15, 6 ]  
- Third Stage:
+ Third Stage:  
  [ 3, 5, 7, **8**, 2, 9, 4, 15, 6 ]  
  Fourth Stage:  
  [ 3, 5, 7, 8, **2**, 9, 4, 15, 6 ]  
